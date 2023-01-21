@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/bin/Debug/net7.0/20.ValidParentheses
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/bin/Debug/net7.0/20.ValidParentheses.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/bin/Debug/net7.0/20.ValidParentheses.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/bin/Debug/net7.0/20.ValidParentheses.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/bin/Debug/net7.0/20.ValidParentheses.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/refint/20.ValidParentheses.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/20.ValidParentheses.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/20.ValidParentheses/obj/Debug/net7.0/ref/20.ValidParentheses.dll
