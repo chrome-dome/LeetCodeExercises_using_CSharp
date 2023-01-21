@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/bin/Debug/net7.0/13.RomanToInteger
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/bin/Debug/net7.0/13.RomanToInteger.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/bin/Debug/net7.0/13.RomanToInteger.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/bin/Debug/net7.0/13.RomanToInteger.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/bin/Debug/net7.0/13.RomanToInteger.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/refint/13.RomanToInteger.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/13.RomanToInteger.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/13.RomanToInteger/obj/Debug/net7.0/ref/13.RomanToInteger.dll

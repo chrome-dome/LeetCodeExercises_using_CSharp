@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/bin/Debug/net7.0/14.LongestCommonPrefix
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/bin/Debug/net7.0/14.LongestCommonPrefix.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/bin/Debug/net7.0/14.LongestCommonPrefix.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/bin/Debug/net7.0/14.LongestCommonPrefix.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/bin/Debug/net7.0/14.LongestCommonPrefix.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/refint/14.LongestCommonPrefix.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/14.LongestCommonPrefix.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/14.LongestCommonPrefix/obj/Debug/net7.0/ref/14.LongestCommonPrefix.dll

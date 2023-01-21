@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/bin/Debug/net6.0/1. TwoSum
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/bin/Debug/net6.0/1. TwoSum.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/bin/Debug/net6.0/1. TwoSum.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/bin/Debug/net6.0/1. TwoSum.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/bin/Debug/net6.0/1. TwoSum.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/refint/1. TwoSum.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/1. TwoSum.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/1. TwoSum/obj/Debug/net6.0/ref/1. TwoSum.dll
