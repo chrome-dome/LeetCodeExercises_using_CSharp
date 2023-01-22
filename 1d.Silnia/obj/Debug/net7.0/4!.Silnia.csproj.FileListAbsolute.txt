@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/bin/Debug/net7.0/4!.Silnia
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/bin/Debug/net7.0/4!.Silnia.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/bin/Debug/net7.0/4!.Silnia.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/bin/Debug/net7.0/4!.Silnia.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/bin/Debug/net7.0/4!.Silnia.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/refint/4!.Silnia.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/4!.Silnia.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/4!.Silnia/obj/Debug/net7.0/ref/4!.Silnia.dll

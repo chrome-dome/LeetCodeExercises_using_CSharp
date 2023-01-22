@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/bin/Debug/net7.0/2!.FindPrimeNumber
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/bin/Debug/net7.0/2!.FindPrimeNumber.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/bin/Debug/net7.0/2!.FindPrimeNumber.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/bin/Debug/net7.0/2!.FindPrimeNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/bin/Debug/net7.0/2!.FindPrimeNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/refint/2!.FindPrimeNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/2!.FindPrimeNumber.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/2!.FindPrimeNumber/obj/Debug/net7.0/ref/2!.FindPrimeNumber.dll

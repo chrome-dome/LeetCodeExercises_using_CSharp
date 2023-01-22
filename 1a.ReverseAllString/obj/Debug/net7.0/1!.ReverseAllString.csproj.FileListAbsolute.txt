@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/bin/Debug/net7.0/1!.ReverseAllString
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/bin/Debug/net7.0/1!.ReverseAllString.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/bin/Debug/net7.0/1!.ReverseAllString.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/bin/Debug/net7.0/1!.ReverseAllString.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/bin/Debug/net7.0/1!.ReverseAllString.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/refint/1!.ReverseAllString.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/1!.ReverseAllString.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_LINQ/1!.ReverseAllString/obj/Debug/net7.0/ref/1!.ReverseAllString.dll
