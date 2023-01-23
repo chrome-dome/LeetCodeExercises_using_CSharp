@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/bin/Debug/net7.0/70.ClimbingStairs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/bin/Debug/net7.0/70.ClimbingStairs.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/bin/Debug/net7.0/70.ClimbingStairs.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/bin/Debug/net7.0/70.ClimbingStairs.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/bin/Debug/net7.0/70.ClimbingStairs.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/refint/70.ClimbingStairs.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/70.ClimbingStairs.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/70.ClimbingStairs/obj/Debug/net7.0/ref/70.ClimbingStairs.dll

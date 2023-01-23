@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/bin/Debug/net7.0/21. MergeTwoSortedLists
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/bin/Debug/net7.0/21. MergeTwoSortedLists.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/bin/Debug/net7.0/21. MergeTwoSortedLists.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/bin/Debug/net7.0/21. MergeTwoSortedLists.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/bin/Debug/net7.0/21. MergeTwoSortedLists.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/refint/21. MergeTwoSortedLists.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/21. MergeTwoSortedLists.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/21. MergeTwoSortedLists/obj/Debug/net7.0/ref/21. MergeTwoSortedLists.dll

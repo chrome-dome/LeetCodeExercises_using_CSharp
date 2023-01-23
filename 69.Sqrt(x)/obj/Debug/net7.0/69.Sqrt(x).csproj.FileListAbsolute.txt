@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/bin/Debug/net7.0/69.Sqrt(x)
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/bin/Debug/net7.0/69.Sqrt(x).deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/bin/Debug/net7.0/69.Sqrt(x).runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/bin/Debug/net7.0/69.Sqrt(x).dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/bin/Debug/net7.0/69.Sqrt(x).pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/refint/69.Sqrt(x).dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/69.Sqrt(x).genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/69.Sqrt(x)/obj/Debug/net7.0/ref/69.Sqrt(x).dll
