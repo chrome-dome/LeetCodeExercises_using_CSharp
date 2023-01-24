@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/bin/Debug/net7.0/104.MaximumDepthOfBinaryTree
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/bin/Debug/net7.0/104.MaximumDepthOfBinaryTree.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/bin/Debug/net7.0/104.MaximumDepthOfBinaryTree.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/bin/Debug/net7.0/104.MaximumDepthOfBinaryTree.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/bin/Debug/net7.0/104.MaximumDepthOfBinaryTree.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/refint/104.MaximumDepthOfBinaryTree.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/104.MaximumDepthOfBinaryTree.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/104.MaximumDepthOfBinaryTree/obj/Debug/net7.0/ref/104.MaximumDepthOfBinaryTree.dll
