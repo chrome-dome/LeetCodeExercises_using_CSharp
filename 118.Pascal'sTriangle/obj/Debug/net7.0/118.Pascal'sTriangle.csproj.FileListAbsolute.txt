@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/bin/Debug/net7.0/118.Pascal'sTriangle
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/bin/Debug/net7.0/118.Pascal'sTriangle.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/bin/Debug/net7.0/118.Pascal'sTriangle.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/bin/Debug/net7.0/118.Pascal'sTriangle.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/bin/Debug/net7.0/118.Pascal'sTriangle.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/refint/118.Pascal'sTriangle.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/118.Pascal'sTriangle.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/118.Pascal'sTriangle/obj/Debug/net7.0/ref/118.Pascal'sTriangle.dll
