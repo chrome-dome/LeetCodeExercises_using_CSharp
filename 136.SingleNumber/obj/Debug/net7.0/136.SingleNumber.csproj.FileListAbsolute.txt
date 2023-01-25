@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/bin/Debug/net7.0/136.SingleNumber
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/bin/Debug/net7.0/136.SingleNumber.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/bin/Debug/net7.0/136.SingleNumber.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/bin/Debug/net7.0/136.SingleNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/bin/Debug/net7.0/136.SingleNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/refint/136.SingleNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/136.SingleNumber.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/136.SingleNumber/obj/Debug/net7.0/ref/136.SingleNumber.dll
