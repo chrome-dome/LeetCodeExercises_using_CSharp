@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "160.IntersectionOfTwoLinkedLists/1.0.0": {
+        "runtime": {
+          "160.IntersectionOfTwoLinkedLists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "160.IntersectionOfTwoLinkedLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
