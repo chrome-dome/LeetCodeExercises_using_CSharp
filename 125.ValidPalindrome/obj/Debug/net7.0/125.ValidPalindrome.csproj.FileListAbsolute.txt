@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/bin/Debug/net7.0/125.ValidPalindrome
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/bin/Debug/net7.0/125.ValidPalindrome.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/bin/Debug/net7.0/125.ValidPalindrome.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/bin/Debug/net7.0/125.ValidPalindrome.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/bin/Debug/net7.0/125.ValidPalindrome.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/refint/125.ValidPalindrome.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/125.ValidPalindrome.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/125.ValidPalindrome/obj/Debug/net7.0/ref/125.ValidPalindrome.dll
