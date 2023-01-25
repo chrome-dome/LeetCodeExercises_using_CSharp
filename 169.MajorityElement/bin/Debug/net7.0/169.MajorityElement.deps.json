@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "169.MajorityElement/1.0.0": {
+        "runtime": {
+          "169.MajorityElement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "169.MajorityElement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
