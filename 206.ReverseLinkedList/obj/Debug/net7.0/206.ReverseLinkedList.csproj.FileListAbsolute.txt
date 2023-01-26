@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/206.ReverseLinkedList/bin/Debug/net7.0/206.ReverseLinkedList
+/Users/chrome-dome/Projects/206.ReverseLinkedList/bin/Debug/net7.0/206.ReverseLinkedList.deps.json
+/Users/chrome-dome/Projects/206.ReverseLinkedList/bin/Debug/net7.0/206.ReverseLinkedList.runtimeconfig.json
+/Users/chrome-dome/Projects/206.ReverseLinkedList/bin/Debug/net7.0/206.ReverseLinkedList.dll
+/Users/chrome-dome/Projects/206.ReverseLinkedList/bin/Debug/net7.0/206.ReverseLinkedList.pdb
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.AssemblyInfo.cs
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.dll
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/refint/206.ReverseLinkedList.dll
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.pdb
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/206.ReverseLinkedList.genruntimeconfig.cache
+/Users/chrome-dome/Projects/206.ReverseLinkedList/obj/Debug/net7.0/ref/206.ReverseLinkedList.dll
