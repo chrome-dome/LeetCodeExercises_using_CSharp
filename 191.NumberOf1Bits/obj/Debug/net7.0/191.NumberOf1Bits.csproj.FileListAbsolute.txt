@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/bin/Debug/net7.0/191.NumberOf1Bits
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/bin/Debug/net7.0/191.NumberOf1Bits.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/bin/Debug/net7.0/191.NumberOf1Bits.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/bin/Debug/net7.0/191.NumberOf1Bits.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/bin/Debug/net7.0/191.NumberOf1Bits.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/refint/191.NumberOf1Bits.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/191.NumberOf1Bits.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/191.NumberOf1Bits/obj/Debug/net7.0/ref/191.NumberOf1Bits.dll
