@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/bin/Debug/net7.0/190.ReverseBits
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/bin/Debug/net7.0/190.ReverseBits.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/bin/Debug/net7.0/190.ReverseBits.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/bin/Debug/net7.0/190.ReverseBits.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/bin/Debug/net7.0/190.ReverseBits.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/refint/190.ReverseBits.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/190.ReverseBits.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/190.ReverseBits/obj/Debug/net7.0/ref/190.ReverseBits.dll
