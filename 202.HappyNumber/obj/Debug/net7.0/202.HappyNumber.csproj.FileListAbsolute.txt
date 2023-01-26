@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/bin/Debug/net7.0/202.HappyNumber
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/bin/Debug/net7.0/202.HappyNumber.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/bin/Debug/net7.0/202.HappyNumber.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/bin/Debug/net7.0/202.HappyNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/bin/Debug/net7.0/202.HappyNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/refint/202.HappyNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/202.HappyNumber.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/202.HappyNumber/obj/Debug/net7.0/ref/202.HappyNumber.dll
