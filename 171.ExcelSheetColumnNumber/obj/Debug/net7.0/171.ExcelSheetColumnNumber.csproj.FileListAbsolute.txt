@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/bin/Debug/net7.0/171.ExcelSheetColumnNumber
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/bin/Debug/net7.0/171.ExcelSheetColumnNumber.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/bin/Debug/net7.0/171.ExcelSheetColumnNumber.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/bin/Debug/net7.0/171.ExcelSheetColumnNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/bin/Debug/net7.0/171.ExcelSheetColumnNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/refint/171.ExcelSheetColumnNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/171.ExcelSheetColumnNumber.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/171.ExcelSheetColumnNumber/obj/Debug/net7.0/ref/171.ExcelSheetColumnNumber.dll
