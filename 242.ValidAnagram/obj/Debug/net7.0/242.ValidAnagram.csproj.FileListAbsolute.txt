@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/bin/Debug/net7.0/242.ValidAnagram
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/bin/Debug/net7.0/242.ValidAnagram.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/bin/Debug/net7.0/242.ValidAnagram.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/bin/Debug/net7.0/242.ValidAnagram.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/bin/Debug/net7.0/242.ValidAnagram.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/refint/242.ValidAnagram.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/242.ValidAnagram.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/242.ValidAnagram/obj/Debug/net7.0/ref/242.ValidAnagram.dll
