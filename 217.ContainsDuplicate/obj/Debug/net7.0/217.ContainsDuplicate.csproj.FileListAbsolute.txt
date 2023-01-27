@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/bin/Debug/net7.0/217.ContainsDuplicate
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/bin/Debug/net7.0/217.ContainsDuplicate.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/bin/Debug/net7.0/217.ContainsDuplicate.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/bin/Debug/net7.0/217.ContainsDuplicate.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/bin/Debug/net7.0/217.ContainsDuplicate.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/refint/217.ContainsDuplicate.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/217.ContainsDuplicate.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/217.ContainsDuplicate/obj/Debug/net7.0/ref/217.ContainsDuplicate.dll
