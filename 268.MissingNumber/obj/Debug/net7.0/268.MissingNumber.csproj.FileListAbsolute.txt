@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/bin/Debug/net7.0/268.MissingNumber
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/bin/Debug/net7.0/268.MissingNumber.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/bin/Debug/net7.0/268.MissingNumber.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/bin/Debug/net7.0/268.MissingNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/bin/Debug/net7.0/268.MissingNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/refint/268.MissingNumber.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/268.MissingNumber.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/268.MissingNumber/obj/Debug/net7.0/ref/268.MissingNumber.dll
