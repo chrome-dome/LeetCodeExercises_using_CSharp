@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/bin/Debug/net7.0/326.PowerOfThree
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/bin/Debug/net7.0/326.PowerOfThree.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/bin/Debug/net7.0/326.PowerOfThree.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/bin/Debug/net7.0/326.PowerOfThree.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/bin/Debug/net7.0/326.PowerOfThree.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/refint/326.PowerOfThree.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/326.PowerOfThree.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/326.PowerOfThree/obj/Debug/net7.0/ref/326.PowerOfThree.dll
