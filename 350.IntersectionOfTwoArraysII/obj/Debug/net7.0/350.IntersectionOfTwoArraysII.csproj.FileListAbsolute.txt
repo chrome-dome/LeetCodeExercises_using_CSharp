@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/bin/Debug/net7.0/350.IntersectionOfTwoArraysII
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/bin/Debug/net7.0/350.IntersectionOfTwoArraysII.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/bin/Debug/net7.0/350.IntersectionOfTwoArraysII.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/bin/Debug/net7.0/350.IntersectionOfTwoArraysII.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/bin/Debug/net7.0/350.IntersectionOfTwoArraysII.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/refint/350.IntersectionOfTwoArraysII.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/350.IntersectionOfTwoArraysII.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/350.IntersectionOfTwoArraysII/obj/Debug/net7.0/ref/350.IntersectionOfTwoArraysII.dll
