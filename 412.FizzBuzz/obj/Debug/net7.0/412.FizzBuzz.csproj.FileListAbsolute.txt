@@ -1,0 +1,15 @@
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/bin/Debug/net7.0/412.FizzBuzz
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/bin/Debug/net7.0/412.FizzBuzz.deps.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/bin/Debug/net7.0/412.FizzBuzz.runtimeconfig.json
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/bin/Debug/net7.0/412.FizzBuzz.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/bin/Debug/net7.0/412.FizzBuzz.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.csproj.AssemblyReference.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.AssemblyInfoInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.AssemblyInfo.cs
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/refint/412.FizzBuzz.dll
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.pdb
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/412.FizzBuzz.genruntimeconfig.cache
+/Users/chrome-dome/Projects/LeetCodeExercises_using_C#/412.FizzBuzz/obj/Debug/net7.0/ref/412.FizzBuzz.dll
